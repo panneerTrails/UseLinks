@@ -1,0 +1,74 @@
+Spring boot, JPA Hibernate, postgresql with gradle
+	https://www.firstfewlines.com/post/spring-boot-postgresql-database-thymeleaf-gradle-example/
+	https://i4t.org/2017/06/19/spring-boot-postgresql-setup-using-gradle/ ----------
+	https://grokonez.com/spring-framework/use-spring-jpa-postgresql-spring-boot (useful)
+	https://fastfoodcoding.com/tutorials/1505105199524/crud-operations-using-spring-boot-jpa-hibernate-postgresql (useful)	
+	https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/
+	https://github.com/callicoder/spring-boot-postgresql-jpa-hibernate-rest-api-demo (useful)
+
+Java Project
+	https://spring.io/guides/gs/gradle/
+	https://www.boraji.com/index.php/how-to-create-a-gradle-java-project-in-eclipse
+	https://www.concretepage.com/build-tools/gradle/java-project-gradle-eclipse-integration-example
+
+Spring, Hibernate with Gradle/Maven using annotation(config) example:
+	https://www.concretepage.com/spring-4/spring-4-hibernate-4-gradle-integration-example-using-annotation ----------
+	http://makble.com/gradle-example-to-build-spring-mvc-application ----------
+	https://www.journaldev.com/8398/spring-mvc-gradle (useful)
+	https://medium.com/@wkrzywiec/setting-up-gradle-spring-project-in-eclipse-on-tomcat-server-77d68454fd8d	
+	https://vitalflux.com/gradle-spring-mvc-web-project/ (useful - gradle)	
+	https://www.mkyong.com/spring-mvc/gradle-spring-4-mvc-hello-world-example-annotation/ (useful)
+	https://dzone.com/articles/spring-mvc-and-java-based-configuration-1 (useful)
+	http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-annotation-javaconfig-full-example/	----------
+	https://www.javacodegeeks.com/2013/04/simple-spring-mvc-web-application-using-gradle.html	----------
+	
+Spring MVC, Hibernate & maven with config example:
+	https://www.javacodegeeks.com/2013/04/spring-mvc-hibernate-maven-crud-operations-example.html ----------
+	http://myjourneyonjava.blogspot.com/2013/11/hibernate4-example-by-using-postgresql.html	
+
+SpringMVC with Swagger:
+	https://blog.zenika.com/2013/07/11/documenting-a-rest-api-with-swagger-and-spring-mvc/	----------
+		https://github.com/acogoluegnes/rest-documentation-with-swagger-spring-mvc	
+	https://www.concretepage.com/spring-4/spring-rest-swagger-2-integration-with-annotation-xml-example ------(By config annotations)
+	https://dzone.com/articles/documenting-your-spring-api	----------
+	https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+
+SpringMVC with OpenUI5:
+	https://blogs.sap.com/2014/01/31/spring-mvc-driven-openui5-demo-application/	----------
+		https://github.com/gushakov/sprmvc-ui5
+
+SpringMVC with JSON object as responseBody:
+	http://hmkcode.com/spring-mvc-return-json-using-responseboyd/	----------
+	https://nxhoaf.wordpress.com/2014/08/03/spring-mvc-return-a-json-object/	----------
+	http://www.programming-free.com/2014/03/spring-mvc-40-restful-web-service-json.html
+	https://bharatonjava.wordpress.com/2013/05/05/spring-3-mvc-and-json-response/
+	http://www.kscodes.com/spring-mvc/spring-mvc-json-response-example/	----------
+
+postgreSQL installation steps:
+	https://www.labkey.org/Documentation/wiki-page.view?name=installPostgreSQLWindows
+	https://www.tutorialspoint.com/postgresql/postgresql_environment.htm
+	https://www.guru99.com/download-install-postgresql.html
+
+Logging in gradle:
+	http://sbytestream.pythonanywhere.com/blog/A-HelloWorld-with-Apache-commons-Gradle-and-Log4J
+	https://www.mkyong.com/spring-mvc/spring-mvc-log4j-integration-example/
+	
+Tomcat configuration in Eclipse:
+	https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.stardust.docs.wst%2Fhtml%2Fwst-integration%2Fconfiguration.html
+	
+Spring i18n configuration:
+	https://www.concretepage.com/spring-4/spring-4-mvc-internationalization-i18n-and-localization-l10n-annotation-example
+	https://www.boraji.com/spring-mvc-5-internationalization-example
+
+SAP:
+	https://medium.com/@gurkan.yilmaz_95950/fiori-backend-rest-api-development-with-sap-gateway-crudq-operations-part-1-76124b4531f
+
+SAP Web IDE:
+	https://cloudplatform.sap.com/capabilities/product-info.SAP-Web-IDE.9e5c9d90-e8e0-4e82-aed2-09087a10c973.html
+
+SAP Cloud Platform cockpit:
+	https://account.hanatrial.ondemand.com/#/home/welcome
+	https://developers.sap.com/topics/cloud-platform.html
+
+SAP Gateway:
+	https://www.sap.com/india/community/topics/gateway.html
